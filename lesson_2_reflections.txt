@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+a new hidden folder called .git is created. To mark the PWD as a repository.
