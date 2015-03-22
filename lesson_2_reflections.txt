@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 a new hidden folder called .git is created. To mark the PWD as a repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+use git diff , git diff --staged 
+
