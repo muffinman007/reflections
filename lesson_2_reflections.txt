@@ -4,3 +4,5 @@ a new hidden folder called .git is created. To mark the PWD as a repository.
 How can you use the staging area to make sure you have one commit per logical change?
 use git diff , git diff --staged 
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to try out new features but don't want to cause a perminate change to the master
