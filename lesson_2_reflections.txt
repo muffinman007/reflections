@@ -10,3 +10,6 @@ When you want to try out new features but don't want to cause a perminate change
 How do the diagrams help you visualize the branch structure?
 i can see the dots that connects one commit to another.
 From the diagram i can tell the data structure is a linked-list structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+you have one branch that contains changes from both merged branches. so we can see it.
